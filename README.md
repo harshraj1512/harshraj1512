@@ -2,7 +2,7 @@
 ### Hi there 👋
 Myself Harsh Raj persuing B.Tech in CSE specialization in Artificial Intelligence and Machine Learning. Solving problems creatively is what I do. I am an AI ML enthusiast, looking around for things.
 
-I have learned the importance of applying classical strategies to modern-day projects. I am an intermediate coder in python and Java. I have done some Advanced python projects to in my college life using some of the most popular libraries used - Tkinter, pandas, NumPy, and many more.
+I have learned the importance of applying classical strategies to modern-day projects. I am an intermediate coder in python, Java and Reactjs. I have done some Advanced python projects to in my college life using some of the most popular libraries used - Tkinter, pandas, NumPy, and many more.
 
 - Coding Languages I am comfortable with-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
