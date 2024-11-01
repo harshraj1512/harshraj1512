@@ -16,6 +16,6 @@ I have learned the importance of applying classical strategies to modern-day pro
 
 - 💬 Ask me about anything I would love to help if I could do so
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshraj1512&show_icons=true&theme=default)-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshraj1512&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshraj1512&layout=compact)
 
